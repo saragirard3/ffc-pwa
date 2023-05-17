@@ -1,0 +1,1 @@
+This progressive web app was built with HTML, JS, and CSS. This was based on the web training at FreeCodeCamp: https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
